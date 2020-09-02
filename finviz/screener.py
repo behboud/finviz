@@ -10,7 +10,7 @@ TABLE_TYPES = {
     'Valuation': '121',
     'Ownership': '131',
     'Performance': '141',
-    'Custom': '152',
+    'Custom': '151',
     'Financial': '161',
     'Technical': '171'
 }
